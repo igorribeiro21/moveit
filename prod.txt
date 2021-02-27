@@ -1,0 +1,1 @@
+para subir o projeto novamente no vercel em produção deve rodar na pasta= vercel --prod
